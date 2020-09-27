@@ -1,3 +1,6 @@
 [submodule "external/utorrentctl"]
 	path = external/utorrentctl
 	url = https://github.com/twistedfall/utorrentctl
+[submodule "external/uTorrent-client-python"]
+	path = external/uTorrent-client-python
+	url = https://github.com/LakithaRav/uTorrent-client-python
