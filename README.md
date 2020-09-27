@@ -6,3 +6,5 @@ This project uses https://github.com/twistedfall/utorrentctl
 utserver -settingspath /opt/utorrent-server-*/ &
 
 https://tipsonubuntu.com/2020/05/26/install-%C2%B5torrent-ubuntu-20-04/
+
+http://localhost:8080/gui
